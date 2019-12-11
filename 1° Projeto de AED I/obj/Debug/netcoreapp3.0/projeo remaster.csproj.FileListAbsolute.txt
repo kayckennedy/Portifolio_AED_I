@@ -1,0 +1,33 @@
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\bin\Debug\netcoreapp3.0\projeo remaster.exe
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\bin\Debug\netcoreapp3.0\projeo remaster.deps.json
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\bin\Debug\netcoreapp3.0\projeo remaster.runtimeconfig.json
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\bin\Debug\netcoreapp3.0\projeo remaster.runtimeconfig.dev.json
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\bin\Debug\netcoreapp3.0\projeo remaster.dll
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\bin\Debug\netcoreapp3.0\projeo remaster.pdb
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\obj\Debug\netcoreapp3.0\projeo remaster.csprojAssemblyReference.cache
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\obj\Debug\netcoreapp3.0\projeo remaster.AssemblyInfoInputs.cache
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\obj\Debug\netcoreapp3.0\projeo remaster.AssemblyInfo.cs
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\obj\Debug\netcoreapp3.0\projeo remaster.dll
+D:\Kayck\Documents\2° Semestre - C#\projeo remaster\obj\Debug\netcoreapp3.0\projeo remaster.pdb
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.exe
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.deps.json
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.runtimeconfig.json
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.runtimeconfig.dev.json
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.dll
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.pdb
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.csprojAssemblyReference.cache
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.AssemblyInfoInputs.cache
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.AssemblyInfo.cs
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.dll
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED 1 - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.pdb
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.exe
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.deps.json
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.runtimeconfig.json
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.runtimeconfig.dev.json
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.dll
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\bin\Debug\netcoreapp3.0\projeo remaster.pdb
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.csprojAssemblyReference.cache
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.AssemblyInfoInputs.cache
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.AssemblyInfo.cs
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.dll
+D:\Kayck\Documents\2° Semestre - C#\1° Projeto de AED I - Finalizado\obj\Debug\netcoreapp3.0\projeo remaster.pdb
