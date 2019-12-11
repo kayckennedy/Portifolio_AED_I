@@ -1,0 +1,11 @@
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\bin\Debug\netcoreapp3.0\Projeto AED.exe
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\bin\Debug\netcoreapp3.0\Projeto AED.deps.json
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\bin\Debug\netcoreapp3.0\Projeto AED.runtimeconfig.json
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\bin\Debug\netcoreapp3.0\Projeto AED.runtimeconfig.dev.json
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\bin\Debug\netcoreapp3.0\Projeto AED.dll
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\bin\Debug\netcoreapp3.0\Projeto AED.pdb
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\obj\Debug\netcoreapp3.0\Projeto AED.csprojAssemblyReference.cache
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\obj\Debug\netcoreapp3.0\Projeto AED.AssemblyInfoInputs.cache
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\obj\Debug\netcoreapp3.0\Projeto AED.AssemblyInfo.cs
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\obj\Debug\netcoreapp3.0\Projeto AED.dll
+D:\Kayck\Documents\2° Semestre - C#\Projeto AED\obj\Debug\netcoreapp3.0\Projeto AED.pdb

@@ -1,0 +1,4 @@
+Ação Realizada: Log apagado, usuário que realizou: Deivisson, Dia e Hora: 23:45 - 08/12/2019
+Ação Realizada: O usuário Deivisson fez log out, Dia e Hora: 23:45 - 08/12/2019
+Ação Realizada: Programa iniciado, Usuario: Desconhecido, Dia e Hora: 23:45 - 08/12/2019
+Ação Realizada: Programa iniciado, Usuario: Desconhecido, Dia e Hora: 18:00 - 11/12/2019
